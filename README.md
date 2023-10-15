@@ -12,20 +12,19 @@ Public sEMG dataset [1] for research, realized in a collaboration between
 
 $`7`$ subjects $\times$ $`8`$ days $\times$ $`4`$ arm postures
 
+Other works and documentation on the dataset:
+- first paper on the dataset [[2]](#2)
+- M.Sc. thesis using the dataset [[3]](#3)
+- paper using a similar acquisition setup and protocol [[4]](#4)
+
+
+
 
 
 ## Usage
 The ``data`` folder contains a ``.mat`` file for each subject, day and arm posture.
 The ``scripts`` folder provides Python and MATLAB functions for loading the data.
 
-
-## Other works and documentation
-- first paper on the UniBo INAIL dataset:
-  ...
-- M.Sc. thesis using the UniBo-INAIL dataset:
-  
-
-- paper using a similar acquisition setup and protocol: ... (Benatti 201x)
 
 
 ## Citation
