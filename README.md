@@ -10,12 +10,12 @@ Public sEMG dataset [1] for research, realized in a collaboration between
 
 ## Structure
 
-$`7`$7 subjects $\times$ $`8`$8 days $\times$ $`4`$4 arm postures
+$`7`$ subjects $\times$ $`8`$ days $\times$ $`4`$ arm postures
 
 
 
 ## Usage
-The ``data`` folder contains a `.mat`` file for each subject, day and arm posture.
+The ``data`` folder contains a ``.mat`` file for each subject, day and arm posture.
 The ``scripts`` folder provides Python and MATLAB functions for loading the data.
 
 
