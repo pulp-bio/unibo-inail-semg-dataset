@@ -10,7 +10,7 @@ Public sEMG dataset [1] for research, realized in a collaboration between
 
 ## Structure
 
-$7$7 subjects $\times$ $8$8 days $\times$ $4$4 arm postures
+$`7`$7 subjects $\times$ $`8`$8 days $\times$ $`4`$4 arm postures
 
 
 
