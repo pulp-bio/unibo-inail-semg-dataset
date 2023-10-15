@@ -40,3 +40,23 @@ If you use this dataset, please cite the following paper (TO APPEAR):
 ## References
 [1] M. Zanghieri, S. Benatti, L. Benini and E. Donati, "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG," _2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)_, Monopoli (Bari), Italy, 2023, pp. 293-298, doi: [10.1109/IWASI58316.2023.10164372](https://ieeexplore.ieee.org/document/10164372).
 
+
+
+
+
+
+
+
+
+
+
+"...the **go to** statement should be abolished..." [[1]](#1).
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
+
+
+
