@@ -1,7 +1,6 @@
 # UniBo-INAIL sEMG dataset
 
 
-
 Public sEMG dataset [1] for research, realized in a collaboration between
 - Energy-Efficient Embedded Systems Laboratory (EEES Lab) ([Prof. Luca Benini](https://www.unibo.it/sitoweb/luca.benini/en)) of University of Bologna
 - INAIL Prosthesis Centre, Vigorso di Budrio, BO, Italy
@@ -13,9 +12,8 @@ Public sEMG dataset [1] for research, realized in a collaboration between
 $`7`$ subjects $\times$ $`8`$ days $\times$ $`4`$ arm postures
 
 Other works and documentation on the dataset:
-- first paper on the dataset [[2]](#2)
-- M.Sc. thesis using the dataset [[3]](#3)
-- paper using a similar acquisition setup and protocol [[4]](#4)
+- first paper on the dataset, by B. Milosevic *et al*. [[2]](#2)
+- M.Sc. thesis based on the dataset, by M. Zanghieri [[3]](#3)
 
 
 
@@ -44,25 +42,25 @@ If you use this dataset, please cite the following paper (TO APPEAR):
 
 
 ## References
-[1] M. Zanghieri, S. Benatti, L. Benini and E. Donati, "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG," _2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)_, Monopoli (Bari), Italy, 2023, pp. 293-298, doi: [10.1109/IWASI58316.2023.10164372](https://ieeexplore.ieee.org/document/10164372).
 
+<a id="1">[1]</a>
+M. Zanghieri, M. Orlandi, E. Donati, E. Gruppioni, L. Benini, S. Simone,
+"Online Unsupervised Arm Posture Adaptation for sEMG-based Gesture Recognition on a Parallel Ultra-Low-Power Microcontroller,"
+_2023 IEEE Internation Conference on Biomedical Circuits and Systems (BioCAS)_,
+2023,
+pp. -, doi: - (TO APPEAR).
 
+<a id="1">[2]</a>
+B. Milosevic, E. Farella, S. Benatti,
+"Exploring arm posture and temporal variability in
+myoelectric hand gesture recognition," in 2018 7th IEEE International
+_Conference on Biomedical Robotics and Biomechatronics (BioRob)_,
+2018,
+pp. 1032–1037. DOI: [10.1109/BIOROB.2018.8487838](https://ieeexplore.ieee.org/abstract/document/8487838).
 
-
-
-
-
-
-
-
-
-"...the **go to** statement should be abolished..." [[1]](#1).
-
-## References
-<a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
-
-
-
+<a id="1">[3]</a>
+M. Zanghieri,
+_sEMG-based hand gesture recognition with deep learning_,
+M.Sc. thesis,
+2023.
+DOI: [10.48550/ARXIV.2306.10954](https://arxiv.org/abs/2306.10954).
