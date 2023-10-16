@@ -16,7 +16,7 @@ The UniBo-INAIL dataset has a nested structure:
       - proximal (the sole with the arm not fully extended; the most common in literature)
       - distal
       - distal with palm down
-      - distal with arm $`45*{\circ}`$ up
+      - distal with arm $`45°`$ up
 
 In total, $`224`$ sessions, each a complete dataset already suitable for small Machine Learning tests.
 There are $`6`$ classes:
@@ -28,7 +28,7 @@ There are $`6`$ classes:
   - open hand
 Each movement is repetated $`9`$ to $`16`$ times.
 
-The sEMG acquisition is performed via $`4`$ [Ottobock 13E200] sensors placed on the forearm, with sampling rate $`\SI{500}{Hz}`$.
+The sEMG acquisition is performed via $`4`$ [Ottobock 13E200] sensors placed on the forearm, with sampling rate $`500 \text{Hz}`$.
 
 Other works and documentation on the dataset:
 - first paper on the dataset, by B. Milosevic *et al*. [[2]](#2)
