@@ -9,7 +9,26 @@ Public sEMG dataset [[1]](#1) for research, realized in a collaboration between
 
 ## Structure
 
-$`7`$ subjects $\times$ $`8`$ days $\times$ $`4`$ arm postures
+The UniBo-INAIL dataset has a nested structure:
+* $`7`$ subjects (healthy males aged $`29.5 \pm 12.2`$ years)
+  * $`8`$ acquisition sessions per subject, on different days
+    * $`4`$ arm postures:
+      - proximal (the sole with the arm not fully extended; the most common in literature)
+      - distal
+      - distal with palm down
+      - distal with arm $`45*{\circ}`$ up
+
+In total, $`224`$ sessions, each a complete dataset already suitable for small Machine Learning tests.
+There are $`6`$ classes:
+  - rest
+  - power grip
+  - 2-finger pinch grip
+  - 3-finger pinch grip
+  - pointing index
+  - open hand
+Each movement is repetated $`9`$ to $`16`$ times.
+
+The sEMG acquisition is performed via $`4`$ [Ottobock 13E200] sensors placed on the forearm, with sampling rate $`\SI{500}{Hz}`$.
 
 Other works and documentation on the dataset:
 - first paper on the dataset, by B. Milosevic *et al*. [[2]](#2)
@@ -55,7 +74,7 @@ pp. -.
 DOI: - **(TO APPEAR)**.
 
 
-<a id="1">[2]</a>
+<a id="2">[2]</a>
 B. Milosevic, E. Farella, S. Benatti,
 "Exploring arm posture and temporal variability in myoelectric hand gesture recognition,"
 in _2018 7th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)_,
@@ -64,7 +83,7 @@ pp. 1032–1037.
 DOI: [10.1109/BIOROB.2018.8487838](https:/doi.org/10.1109/BIOROB.2018.8487838).
 
 
-<a id="1">[3]</a>
+<a id="3">[3]</a>
 M. Zanghieri,
 _sEMG-based hand gesture recognition with deep learning_,
 M.Sc. thesis,
@@ -72,7 +91,7 @@ M.Sc. thesis,
 DOI: [10.48550/ARXIV.2306.10954](https://doi.org/10.48550/ARXIV.2306.10954).
 
 
-<a id="1">[]</a>
+<a id="4">[4]</a>
 S. Benatti, B. Milosevic 2, E. Farella, E. Gruppioni, L. Benini,
 "A prosthetic hand body area controller based on efficient pattern recognition control strategies,"
 in _Sensors_,
@@ -81,7 +100,7 @@ vol. 17, no. 4, art. num. 869,
 DOI: [10.3390/s17040869](https://doi.org/10.3390/s17040869).
 
 
-<a id="1">[]</a>
+<a id="5">[5]</a>
 S. Benatti, E. Farella, E. Gruppioni,  L. Benini,
 "Analysis of robust implementation of an EMG pattern recognition based control,"
 in _Proceedings of the International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 4_
