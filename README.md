@@ -14,8 +14,8 @@ The UniBo-INAIL dataset has a nested structure:
   - $`8`$ acquisition sessions per subject, on different days
     - $`4`$ arm postures:
       - proximal (the sole with the arm not fully extended; the most common in literature)
-      - distal
-      - distal with palm down
+      + distal
+      * distal with palm down
       - distal with arm $`45°`$ up
 
 In total, $`224`$ sessions, each a complete dataset already suitable for small Machine Learning tests.
@@ -23,7 +23,7 @@ There are $`6`$ classes: ``rest``, ``power grip``, ``2-finger pinch grip``, ``3-
 
 Each movement is repetated $`9`$ to $`16`$ times.
 
-The sEMG acquired via $`4`$ [Ottobock 13E200 MyoBock Electrodes](https://shop.ottobock.us/c/Electrode/p/13E200~550) placed on the forearm's skin above the muscles involved in the chosen gestures: _extensor carpi ulnaris_, _extensor communis digitorum_, _flexor carpi radialis_, and _flexor carpi ulnaris.
+The sEMG acquired via $`4`$ [Ottobock 13E200 MyoBock Electrodes](https://shop.ottobock.us/c/Electrode/p/13E200~550) placed on the forearm's skin above the muscles involved in the chosen gestures: _extensor carpi ulnaris_, _extensor communis digitorum_, _flexor carpi radialis_, and _flexor carpi ulnaris_.
 The sampling frequency is $`500 \text{Hz}`$.
 
 Other works and documentation on the dataset:
@@ -42,7 +42,7 @@ The ``scripts`` folder provides Python and MATLAB functions for loading the data
 
 
 ## Citation
-If you use this dataset, please cite the following paper (TO APPEAR):
+If you use this dataset, please cite the following paper **(TO APPEAR)**:
 ```
 @INPROCEEDINGS{-,
   author={Zanghieri, Marcello and Orlandi, Mattia and Donati, Elisa and Gruppioni, Emanuele and Benini, Luca and Benatti, Simone},
