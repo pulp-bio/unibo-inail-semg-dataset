@@ -70,7 +70,7 @@ B. Milosevic, E. Farella, S. Benatti,
 in _2018 7th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)_,
 2018,
 pp. 1032–1037.
-DOI: [10.1109/BIOROB.2018.8487838](https:/doi.org/10.1109/BIOROB.2018.8487838).
+DOI: [10.1109/BIOROB.2018.8487838](https://doi.org/10.1109/BIOROB.2018.8487838).
 
 
 <a id="3">[3]</a>
