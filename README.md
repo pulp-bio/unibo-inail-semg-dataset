@@ -1,9 +1,9 @@
 # UniBo-INAIL sEMG dataset
 
 
-Public sEMG dataset [1] for research, realized in a collaboration between
-- Energy-Efficient Embedded Systems Laboratory (EEES Lab) ([Prof. Luca Benini](https://www.unibo.it/sitoweb/luca.benini/en)) of University of Bologna
-- INAIL Prosthesis Centre, Vigorso di Budrio, BO, Italy
+Public sEMG dataset [[1]](#1) for research, realized in a collaboration between
+- Energy-Efficient Embedded Systems (EEES) Laboratory ([Prof. Luca Benini](https://www.unibo.it/sitoweb/luca.benini/en)) of University of Bologna
+- INAIL Prosthesis Centre ([EN](https://www.inail.it/cs/internet/multi/english/functions-and-services/rehabilitation-and-reintegration.html) | [IT](https://www.inail.it/portale/budrio/it/chi-siamo/centro-protesi-budrio.html)), Vigorso di Budrio, BO, Italy (contact [Prof. Emanuele Gruppioni](https://www.unibo.it/sitoweb/emanuele.gruppioni3/en))
 
 
 
@@ -14,6 +14,7 @@ $`7`$ subjects $\times$ $`8`$ days $\times$ $`4`$ arm postures
 Other works and documentation on the dataset:
 - first paper on the dataset, by B. Milosevic *et al*. [[2]](#2)
 - M.Sc. thesis based on the dataset, by M. Zanghieri [[3]](#3)
+- paper with an earlier acquisition setup and protocol, by S. Benatti *et al*. [[4]](#4)
 
 
 
