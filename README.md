@@ -10,13 +10,9 @@ Public sEMG dataset [[1]](#1) for research, realized in a collaboration between
 ## Structure
 
 The UniBo-INAIL dataset has a nested structure:
-- $`7`$ subjects (healthy males aged $`29.5 \pm 12.2`$ years)
-  - $`8`$ acquisition sessions per subject, on different days
-    - $`4`$ arm postures:
-      - proximal (the sole with the arm not fully extended; the most common in literature)
-      + distal
-      * distal with palm down
-      - distal with arm $`45°`$ up
+- $`7`$ **subjects** (healthy males aged $`29.5 \pm 12.2`$ years)
+  - $`8`$ **sessions** per subject, on different acquisition days
+    - $`4`$ **arm postures** per session: proximal (the sole with the arm not fully extended; the most common in literature), distal, distal with palm down, distal with arm $`45°`$ up.
 
 In total, $`224`$ sessions, each a complete dataset already suitable for small Machine Learning tests.
 There are $`6`$ classes: ``rest``, ``power grip``, ``2-finger pinch grip``, ``3-finger pinch grip``, ``pointing index``, and ``open hand``.
@@ -30,8 +26,6 @@ Other works and documentation on the dataset:
 - first paper on the dataset, by B. Milosevic *et al*. [[2]](#2)
 - M.Sc. thesis based on the dataset, by M. Zanghieri [[3]](#3)
 - papers constituing earlier versions of the UniBo-INAIL acquisition setup and protocol, by S. Benatti *et al*. [[4](#4), [5](#5)]
-
-
 
 
 
