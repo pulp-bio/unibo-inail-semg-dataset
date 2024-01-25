@@ -36,18 +36,17 @@ The ``scripts`` folder provides Python and MATLAB functions for loading the data
 
 
 ## Citation
-If you use this dataset, please cite the following paper **(TO APPEAR)**:
+If you use this dataset, please cite the following paper:
 ```
-@INPROCEEDINGS{-,
+@INPROCEEDINGS{zanghieri2023online,
   author={Zanghieri, Marcello and Orlandi, Mattia and Donati, Elisa and Gruppioni, Emanuele and Benini, Luca and Benatti, Simone},
-  booktitle={2023 IEEE Internation Conference on Biomedical Circuits and Systems (BioCAS)}, 
+  booktitle={2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)}, 
   title={Online Unsupervised Arm Posture Adaptation for sEMG-based Gesture Recognition on a Parallel Ultra-Low-Power Microcontroller}, 
   year={2023},
   volume={},
   number={},
-  pages={-},
-  doi={-}}
-
+  pages={1-5},
+  doi={10.1109/BioCAS58349.2023.10388902}}
 ```
 
 
