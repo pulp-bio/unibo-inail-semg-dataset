@@ -16,7 +16,6 @@ The UniBo-INAIL dataset has a nested structure:
 
 The sessions are $`224`$ in total, and each one is a small but complete dataset individually suitable for small Machine Learning experiments.
 There are $`6`$ classes: ``rest``, ``power grip``, ``2-finger pinch grip``, ``3-finger pinch grip``, ``pointing index``, and ``open hand``.
-
 Each movement is repeated $`9`$ to $`16`$ times.
 
 The sEMG acquired via $`4`$ [Ottobock 13E200 MyoBock Electrodes](https://shop.ottobock.us/c/Electrode/p/13E200~550) placed on the forearm's skin above the muscles involved in the chosen gestures: _extensor carpi ulnaris_, _extensor communis digitorum_, _flexor carpi radialis_, and _flexor carpi ulnaris_.
