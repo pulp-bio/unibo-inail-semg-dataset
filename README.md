@@ -2,8 +2,8 @@
 
 
 Public sEMG dataset [[1]](#1) for research, realized in a collaboration between
-- Energy-Efficient Embedded Systems (EEES) Laboratory ([IT](https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/eees)) of University of Bologna -- [Prof. Luca Benini](https://www.unibo.it/sitoweb/luca.benini/en))
-- INAIL Prosthesis Centre in Vigorso di Budrio ([EN](https://www.inail.it/cs/internet/multi/english/functions-and-services/rehabilitation-and-reintegration.html)|[IT](https://www.inail.it/portale/budrio/it/chi-siamo/centro-protesi-budrio.html)) (Bologna, Italy - contact [Prof. Emanuele Gruppioni](https://www.unibo.it/sitoweb/emanuele.gruppioni3/en))
+- Energy-Efficient Embedded Systems (EEES) Laboratory ([IT](https://dei.unibo.it/it/ricerca/laboratori-di-ricerca/eees)) of University of Bologna - [Prof. Luca Benini](https://www.unibo.it/sitoweb/luca.benini/en))
+- INAIL Prosthesis Centre in Vigorso di Budrio ([EN](https://www.inail.it/cs/internet/multi/english/functions-and-services/rehabilitation-and-reintegration.html)|[IT](https://www.inail.it/portale/budrio/it/chi-siamo/centro-protesi-budrio.html)), Bologna, Italy - contact [Prof. Emanuele Gruppioni](https://www.unibo.it/sitoweb/emanuele.gruppioni3/en)
 
 
 
