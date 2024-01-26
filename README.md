@@ -14,7 +14,7 @@ The UniBo-INAIL dataset has a nested structure:
   - $`8`$ **sessions** per subject, on different acquisition days
     - $`4`$ **arm postures** per session: proximal (the sole with the arm not fully extended; the most common in literature), distal, distal with palm down, distal with arm $`45°`$ up.
 
-In total, $`224`$ sessions; each session is a small but complete dataset, individually suitable for small Machine Learning experiments.
+The sessions are $`224`$ in total, and each one is a small but complete dataset individually suitable for small Machine Learning experiments.
 There are $`6`$ classes: ``rest``, ``power grip``, ``2-finger pinch grip``, ``3-finger pinch grip``, ``pointing index``, and ``open hand``.
 
 Each movement is repeated $`9`$ to $`16`$ times.
