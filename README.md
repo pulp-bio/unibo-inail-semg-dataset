@@ -29,8 +29,9 @@ Other works and documentation on the UniBo-INAIL dataset:
 
 
 ## Usage
-The ``data`` folder contains a ``.mat`` file for each subject, day and arm posture.
-The ``scripts`` folder provides Python and MATLAB functions for loading the data.
+The ``data/`` folder contains a ``.mat`` file for each subject, day and arm posture.
+
+The ``scripts/`` folder provides Python and MATLAB functions for loading the data.
 
 
 
