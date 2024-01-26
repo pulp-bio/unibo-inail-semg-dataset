@@ -24,7 +24,7 @@ The sampling frequency is $`500 \text{Hz}`$.
 Other works and documentation on the UniBo-INAIL dataset:
 - first paper on the dataset, by B. Milosevic *et al*. [[2]](#2)
 - M.Sc. thesis based on the dataset, by M. Zanghieri [[3]](#3)
-- papers with earlier versions of the UniBo-INAIL acquisition setup and protocol, by S. Benatti *et al*. [[4](#4), [5](#5)]
+- papers with earlier versions of the UniBo-INAIL acquisition setup and protocol, by S. Benatti *et al*. [[4]](#4), [[5]](#5)
 
 
 
