@@ -91,7 +91,7 @@ DOI: [10.3390/s17040869](https://doi.org/10.3390/s17040869).
 
 <a id="5">[5]</a>
 S. Benatti, E. Farella, E. Gruppioni,  L. Benini,
-"Analysis of robust implementation of an EMG pattern recognition based control,"
+“Analysis of robust implementation of an EMG pattern recognition based control,”
 in _Proceedings of the International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 4_
 2014,
 pp. 45–54.
